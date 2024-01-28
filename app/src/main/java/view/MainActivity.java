@@ -1,7 +1,8 @@
-package com.kantor;
+package view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.kantor.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,3 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
